@@ -1,0 +1,10 @@
+document.onkeydown = keydown;
+
+function keydown(evt){
+  if (!evt) evt = event;
+  if (evt.metaKey && evt.keyCode==68){ //CMD+d
+      // change IP address here, possibly using proxys or some other way
+
+  }
+
+}
